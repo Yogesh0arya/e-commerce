@@ -1,0 +1,15 @@
+.HomeScreen_logo_1 {
+  width: 100px;
+  object-fit: contain;
+  padding-left: 20px;
+}
+
+.Display_img {
+  width: 100%;
+}
+
+.Product {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}

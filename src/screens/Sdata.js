@@ -1,0 +1,53 @@
+const Sdata=[
+    {
+        img:"https://m.media-amazon.com/images/I/51Sfw-hLsPL.jpg",
+        price:19990
+    },
+    {
+        img:"https://images-na.ssl-images-amazon.com/images/I/41UVRDxCbML._SY355_.jpg",
+        price:220
+    },
+    {
+        img:"https://img.gkbcdn.com/s3/p/2018-06-28/enkay-protective-film-for-xiaomi-gaming-laptop-transparent-1571980438574.jpg",
+        price:150
+    },
+    {
+        img:"https://www.clipartkey.com/mpngs/m/147-1470516_charger-png-file-mobile-phone-charger-png.png",
+        price:20
+    },
+    {
+        img:"https://st1.bgr.in/wp-content/uploads/2021/01/32-inch-tv-mi-1.jpg",
+        price:200
+    },
+    {
+        img:"https://images-na.ssl-images-amazon.com/images/I/61PMddaMi6L._AC_SL1000_.jpg",
+        price:199
+    },
+    {
+        img:"https://lh3.googleusercontent.com/proxy/ARkPc9yGqlDOhaD9FNv_gZxzhGCeQRy-kMSLwW2I0OXQUaGG6nSYqkr5_9VSfQPMQc4hQ7rsa0Kbuy6idmrknWjrV-3NRWfIR0npjR21mNHI0pXK20aNOshMz1zNeTCj",
+        price:200
+    },
+    {
+        img:"https://i.pinimg.com/originals/2e/69/b4/2e69b4bcc541f203b6faed0260ed59a9.jpg",
+        price:20
+    },
+    {
+        img:"https://lh3.googleusercontent.com/proxy/NDVsktisGecVk9RcX647I4VBQqaFgO3ANyCUDe6DjvigOVtJBAIxS4KcMw0LjuRkitE8LCR5Uran39iFGEeLvxdzdQADd-g396PzPd9dSBvk1_uO9sUSoPp_14BdCx7zCslZontSvQ",
+        price:500
+    },
+    {
+        img:"https://images.jdmagicbox.com/quickquotes/images_main/b07r7zjvp6-seasiant-india-2-5inch-transparent-type-c-to-sata-external-hdd-sdd-hard-drive-enclosure-case-single-item-170804687-grhuo.jpg",
+        price:899
+    },
+    {
+        img:"https://images-na.ssl-images-amazon.com/images/I/41af9EcPofL._AC_SY355_.jpg",
+        price:20
+    },
+    {
+        img:"https://lh3.googleusercontent.com/proxy/bf7ec-DqaNSckYJksfYTBmrdEz8wEsP50y1bgKBDgnQ6WiV-wSJYa77F_3W5ejCTNIUO8nfy49EofvpblX5IiuDUfGLAzoBOJJMXlFoD0vqwTyKN2veNJbxFxtBBLjRvNwjP",
+        price:555
+    },
+    
+]
+
+export default Sdata;
